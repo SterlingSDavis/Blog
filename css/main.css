@@ -1,0 +1,85 @@
+header h1 a{
+  color: rgb(255, 0, 0);
+text-decoration: none;
+font-family: lato;
+font-size: 40px;
+font-weight: 300;
+margin-left: 20px
+}
+ header h2{
+  font-family: lato;
+  font-weight: 300;
+  margin-left: 20px;
+
+}
+header nav a{
+  color: rgba(0, 0, 0, 0.2);
+  font-size: 20px;
+  margin-left: 20px;
+
+
+}
+article h3{
+  color: rgba(0, 0, 0, 0.2);
+  font-family: lato;
+  font-weight: 300;
+  font-size: 29px;
+  margin-left: 20px;
+  margin-top: 50px;
+margin-bottom: 0px
+}
+article h2 a{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-family: lato;
+  font-size: 39px;
+  font-weight: 300;
+  margin-left: 20px;
+
+}
+article h2{
+  margin-top: 10px;
+}
+.newyork{
+  height: 200px;
+  width: 100%;
+  padding-left: 20px;
+
+}
+article p {
+  font-family: lato;
+  margin-left: 20px;
+}
+article h4 a{
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+display:flex;
+justify-content: flex-end;
+}
+.paris{
+  height: 300px;
+  width: 500px;
+  margin-left: 20px;
+}
+footer nav a{
+  font-size: 15px;
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+  margin-left: 20px;
+}
+article{
+  border-bottom-style: ridge;
+  padding-top: 40px;
+
+
+}
+body{
+  width: 800px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+article p::first-letter{
+  color: rgba(0, 0, 0, 0.2);;
+  font-size: 100px;
+
+}
